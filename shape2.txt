@@ -1,0 +1,9 @@
+<html>
+<head>
+<title> My First App </title>
+</head>
+<body>
+<applet code="Shapes2" height="800" width="800">
+</applet>
+</body>
+</html>
